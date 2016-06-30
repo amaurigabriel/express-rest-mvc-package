@@ -32,5 +32,13 @@
           "name": "amaurigabriel",
           "email": "contato@amauri.eng.br"
         }
-    ]
+    ],
+    "repository": {
+    "type": "git",
+        "url": "git+https://github.com/amaurigabriel/express-rest-mvc-package.git"
+    },
+    "bugs": {
+        "url": "https://github.com/amaurigabriel/express-rest-mvc-package/issues"
+    },
+    "homepage": "https://github.com/amaurigabriel/express-rest-mvc-package",
 }
