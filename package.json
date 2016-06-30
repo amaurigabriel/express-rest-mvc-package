@@ -15,7 +15,9 @@
     "dependencies": {
         "async" : "*",
         "bluebird": "2.9.x",
-        "squel" : "*"
+        "mysql2" : "*",
+        "squel" : "*",
+        "validation-engine" : "*"
     },
     "main": "index.js",
     "keywords" : [
@@ -40,5 +42,5 @@
     "bugs": {
         "url": "https://github.com/amaurigabriel/express-rest-mvc-package/issues"
     },
-    "homepage": "https://github.com/amaurigabriel/express-rest-mvc-package",
+    "homepage": "https://github.com/amaurigabriel/express-rest-mvc-package"
 }
