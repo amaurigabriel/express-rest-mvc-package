@@ -1,0 +1,36 @@
+{
+    "name": "express-rest-mvc",
+    "version" : "0.0.1",
+    "description": "A mvc rest-server using express.",
+    "author": {
+        "name": "Amauri Gabriel",
+        "email": "contato@amauri.eng.br"
+    },
+    "contributors": [
+        {
+          "name": "Amauri Gabriel",
+          "email": "contato@amauri.eng.br"
+        }
+    ],
+    "dependencies": {
+        "async" : "*",
+        "bluebird": "2.9.x",
+        "squel" : "*"
+    },
+    "main": "index.js",
+    "keywords" : [
+        "rest",
+        "mvc",
+        "express"
+    ],
+    "_npmUser": {
+        "name": "amaurigabriel",
+        "email": "contato@amauri.eng.br"
+    },
+    "maintainers": [
+        {
+          "name": "amaurigabriel",
+          "email": "contato@amauri.eng.br"
+        }
+    ]
+}
