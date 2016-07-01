@@ -16,6 +16,7 @@
         "async" : "*",
         "bluebird": "2.9.x",
         "mysql2" : "*",
+        "pluralize" : "*",
         "squel" : "*",
         "validation-engine" : "*"
     },
